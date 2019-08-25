@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+	
+	return 0;
+}
+]]></content>
+	<tabTrigger>main</tabTrigger> 
+</snippet>

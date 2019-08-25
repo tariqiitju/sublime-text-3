@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+template <class T> T lcm(T a, T b){
+	return (a/__gcd(a,b))*b;
+}
+]]></content>
+	<tabTrigger>lcm</tabTrigger> 
+</snippet>

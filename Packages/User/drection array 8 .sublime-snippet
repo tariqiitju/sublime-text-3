@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+int ${1:dx}[]={0,0,1,-1,1,1,-1,-1};
+int ${2:dy}[]={1,-1,0,0,1,-1,1,-1};
+]]></content>
+	 <tabTrigger>direction8</tabTrigger>
+</snippet>

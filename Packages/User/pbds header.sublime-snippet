@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#include <ext/pb_ds/assoc_container.hpp>
+using namespace __gnu_pbds;
+]]></content>
+	<tabTrigger>pbds header</tabTrigger>
+</snippet>

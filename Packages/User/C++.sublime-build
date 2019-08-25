@@ -1,0 +1,37 @@
+{
+	"shell_cmd": "g++ -std=c++11 \"${file}\" -o \"${file_path}/${file_base_name}\"",
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+	"working_dir": "${file_path}",
+	"selector": "source.c, source.c++,source.cpp, source.cc,source.cxx",
+
+	"variants":
+	[
+		{
+			"name": "11",
+			"shell_cmd": "g++ -std=c++11 \"${file}\" -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\"<input.txt>output.txt"
+		},
+		{
+			"name": "14",
+			"shell_cmd": "g++ -std=c++14 \"${file}\" -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\"<input.txt>output.txt"
+		},
+		{
+			"name": "17",
+			"shell_cmd": "g++ -std=c++1z \"${file}\" -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\"<input.txt>output.txt"
+		},
+		{
+			"name": "_",
+			"shell_cmd": "g++ \"${file}\" -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\"<input.txt>output.txt"
+		},{
+			"name": "Terminal17",
+			"shell_cmd": "g++ -std=c++1z \"${file}\" -o \"${file_path}/${file_base_name}\"  && gnome-terminal -e 'bash -c \"\\\"${file_path}/${file_base_name}\\\";echo;echo; echo Press ENTER to continue; read line;exit; exec bash\"'"
+			
+		},
+		{
+			"name": "TerminalFileInput17",
+			"shell_cmd": "g++ -std=c++1z \"${file}\" -o \"${file_path}/${file_base_name}\"  && gnome-terminal -e 'bash -c \"\\\"${file_path}/${file_base_name}\\\"<input.txt;echo;echo; echo Press ENTER to continue; read line;exit; exec bash\"'"
+			
+		}
+
+
+	]
+}

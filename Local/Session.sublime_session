@@ -1,0 +1,1917 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3207,
+	"last_window_id": 19,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max",
+						"max_i\tint max_i"
+					],
+					[
+						"clo",
+						"close\tint close"
+					],
+					[
+						"ma",
+						"main\tmain()"
+					],
+					[
+						"en",
+						"endl"
+					],
+					[
+						"be",
+						"begin\titerator begin()"
+					],
+					[
+						"m",
+						"main\tmain()"
+					],
+					[
+						"pu",
+						"push\tvoid push(value_type &&__x)"
+					],
+					[
+						"stk",
+						"stk2\tint stk2"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"pri",
+						"prime\tll [78499] prime"
+					],
+					[
+						"base",
+						"base_to_the_power"
+					],
+					[
+						"sh",
+						"shift"
+					],
+					[
+						"res",
+						"resize\tvoid resize(size_type __new_size)"
+					],
+					[
+						"shi",
+						"shift_in_cycle"
+					],
+					[
+						"upp",
+						"upper_bound\t_ForwardIterator upper_bound(_ForwardIterator __first, _ForwardIterator __last, const _Tp &__val)"
+					],
+					[
+						"min",
+						"min_i"
+					],
+					[
+						"pre",
+						"prev_a"
+					],
+					[
+						"nex",
+						"next_a"
+					],
+					[
+						"ta",
+						"taken"
+					],
+					[
+						"prev",
+						"prev_a\tint prev_a"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"po",
+						"pop_front\tvoid pop_front()"
+					],
+					[
+						"push",
+						"push_front\tvoid push_front(value_type &&__x)"
+					],
+					[
+						"pop",
+						"pop_front\tvoid pop_front()"
+					],
+					[
+						"emp",
+						"empty\tbool empty() const"
+					],
+					[
+						"get",
+						"getmemoryMB\tdouble getmemoryMB()"
+					],
+					[
+						"s",
+						"stime\tunsigned long stime"
+					],
+					[
+						"cloc",
+						"clock_t\tclock_t"
+					],
+					[
+						"exi",
+						"exit_code"
+					],
+					[
+						"rs",
+						"realtimerssMB\tdouble realtimerssMB()"
+					],
+					[
+						"pro",
+						"customProcessInfo"
+					],
+					[
+						"ti",
+						"tick_per_sec"
+					],
+					[
+						"ws",
+						"wstime\tunsigned long wstime"
+					],
+					[
+						"em",
+						"empty\tbool empty() const"
+					],
+					[
+						"sum",
+						"sum0\tll sum0"
+					],
+					[
+						"exit",
+						"exit_signal\tint exit_signal"
+					],
+					[
+						"ato",
+						"atol\tlong atol(const char *__nptr)"
+					],
+					[
+						"c",
+						"c_str\tconst char * c_str() const"
+					],
+					[
+						"at",
+						"atoi\tint atoi(const char *__nptr)"
+					],
+					[
+						"test",
+						"testcase\ttest_case"
+					],
+					[
+						"tes",
+						"testcase\ttest_case"
+					],
+					[
+						"bits",
+						"bitset"
+					],
+					[
+						"area",
+						"area_with_top"
+					],
+					[
+						"for",
+						"forward\tint forward"
+					],
+					[
+						"mod",
+						"modexp\tbigmod"
+					],
+					[
+						"inc",
+						"include bits\tInclude Bascics"
+					],
+					[
+						"tok",
+						"tok"
+					],
+					[
+						"log",
+						"log_no"
+					],
+					[
+						"bit",
+						"bit range update\tbit range update"
+					],
+					[
+						"mem",
+						"mem\tmemset full"
+					],
+					[
+						"pb",
+						"pb_ds"
+					],
+					[
+						"pbd",
+						"pbds multiset\tbpds multiset"
+					],
+					[
+						"print",
+						"printhaha"
+					],
+					[
+						"me",
+						"mem\tmemset full"
+					],
+					[
+						"de",
+						"define"
+					],
+					[
+						"tw",
+						"two_who\tint two_who"
+					],
+					[
+						"two",
+						"two_who\tint two_who"
+					],
+					[
+						"ex",
+						"exception"
+					],
+					[
+						"string",
+						"stringstream\tstringstream"
+					],
+					[
+						"te",
+						"tempBasic\tbasictemlate"
+					],
+					[
+						"arg",
+						"argc\tint argc"
+					],
+					[
+						"ar",
+						"argc"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"11"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"14"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"17"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"_"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"Terminal17"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"TerminalFileInput17"
+						]
+					],
+					[
+						"Packages/User/C++.sublime-build",
+						"14"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"11"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"14"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"17"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"_"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"Terminal17"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"TerminalFileInput17"
+						],
+						[
+							"Packages/User/customC++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/customC++.sublime-build",
+							"terminal"
+						],
+						[
+							"Packages/User/customC++.sublime-build",
+							"terminal output"
+						]
+					],
+					[
+						"Packages/User/customC++.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"reso",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"open",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tariq/Code/leena 14.cpp",
+				"/home/tariq/Code/leena15.cpp",
+				"/home/tariq/Code/hello.txt",
+				"/home/tariq/Code/leena13.cpp",
+				"/home/tariq/Code/leena12.cpp",
+				"/home/tariq/Code/leena11.cpp",
+				"/home/tariq/Code/leena9.cpp",
+				"/home/tariq/Code/leena10.cpp",
+				"/home/tariq/Code/leena8.cpp",
+				"/home/tariq/Code/leena7.cpp",
+				"/home/tariq/Code/leena6.cpp",
+				"/home/tariq/Code/leena5.cpp",
+				"/home/tariq/Code/leena4.cpp",
+				"/home/tariq/Code/lena3.cpp",
+				"/home/tariq/Code/leena2.cpp",
+				"/home/tariq/Code/leena.cpp",
+				"/home/tariq/Code/Runner project/runner.cpp",
+				"/home/tariq/Downloads/NitroShare/treap.cpp",
+				"/home/tariq/Code/Runner project/hello.cpp",
+				"/home/tariq/Code/gen.cpp",
+				"/home/tariq/Code/tmp",
+				"/home/tariq/Code/TestBrance/test.cpp",
+				"/home/tariq/Code/TestBrance/runner.cpp",
+				"/home/tariq/Code/TestBrance/testpid.cpp",
+				"/home/tariq/Code/pat.cpp",
+				"/home/tariq/Code/gjg.cpp",
+				"/home/tariq/Code/another way.cpp",
+				"/home/tariq/Code/Image Processing/denoising basics.py",
+				"/home/tariq/Code/xprint.cpp",
+				"/home/tariq/Code/fibo power sum.cpp",
+				"/home/tariq/Code/print.cpp",
+				"/home/tariq/Code/tinp",
+				"/home/tariq/.config/sublime-text-3/Packages/User/customC++.sublime-build",
+				"/home/tariq/.config/sublime-text-3/Packages/User/bit range update.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/bit.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/iterative segment tree.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/sparse table.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/pbds set.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/bpds multiset.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/pbds map.sublime-snippet",
+				"/home/tariq/Code/delete_line_num.cpp",
+				"/home/tariq/.config/sublime-text-3/Packages/User/C++.sublime-build",
+				"/home/tariq/Code/printhaha.cpp",
+				"/home/tariq/Code/testting.cpp",
+				"/home/tariq/Code/testingsyscall.cpp",
+				"/home/tariq/Code/runner.cpp",
+				"/home/tariq/Code/kosare kosare.cpp"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"posi",
+					"));\n",
+					"d/10",
+					"d%10",
+					"];\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"(d<10?0:1)",
+					"(d<10?d:d-10)"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 275.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 3
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sei",
+						"sieve\tvoid sieve()"
+					],
+					[
+						"di",
+						"dis"
+					],
+					[
+						"ln",
+						"lng\tdouble lng(Point a)"
+					],
+					[
+						"Clo",
+						"ClosestPoint"
+					],
+					[
+						"clo",
+						"closest_pt_seg"
+					],
+					[
+						"col",
+						"closest_pt_plane"
+					],
+					[
+						"poi",
+						"point"
+					],
+					[
+						"point",
+						"point_seg"
+					],
+					[
+						"cst",
+						"cst2\tint cst2"
+					],
+					[
+						"beg",
+						"begin\titerator begin() const"
+					],
+					[
+						"luc",
+						"lucky\tvector<ll> lucky"
+					],
+					[
+						"lu",
+						"lucky\tvector<ll> lucky"
+					],
+					[
+						"luck",
+						"lucky2"
+					],
+					[
+						"res",
+						"resize\tvoid resize(size_type __new_size)"
+					],
+					[
+						"puha",
+						"push_back\tvoid push_back(value_type &&__x)"
+					],
+					[
+						"inde",
+						"index_of_last\tvector<int> index_of_last"
+					],
+					[
+						"pri",
+						"print\tvoid print(int u, int x)"
+					],
+					[
+						"as",
+						"ans"
+					],
+					[
+						"cl",
+						"clear\tvoid clear()"
+					],
+					[
+						"sum",
+						"sum2"
+					],
+					[
+						"mem",
+						"mem\tmemset full"
+					],
+					[
+						"av",
+						"AVL\tint AVL"
+					],
+					[
+						"cou",
+						"countAll\tvoid countAll(int root, int last)"
+					],
+					[
+						"no",
+						"notClone\tbool notClone"
+					],
+					[
+						"upper",
+						"upper_bound\t_ForwardIterator upper_bound(_ForwardIterator __first, _ForwardIterator __last, const _Tp &__val)"
+					],
+					[
+						"temp",
+						"tempBasic\tbasictemlate"
+					],
+					[
+						"acc",
+						"access\tint access(int x)"
+					],
+					[
+						"path",
+						"path_max"
+					],
+					[
+						"lc",
+						"lca"
+					],
+					[
+						"link",
+						"link2\tvoid link2(int x, int y)"
+					],
+					[
+						"s",
+						"second\tlong long second"
+					],
+					[
+						"te",
+						"tempBasic\tbasictemlate"
+					],
+					[
+						"ans",
+						"ans3"
+					],
+					[
+						"con",
+						"convexHull\tvector<point> convexHull(vector<point> p)"
+					],
+					[
+						"pla",
+						"plane_iline_isect\tint plane_iline_isect(Point norm, Point ori, Point a, Point b, Point *p)"
+					],
+					[
+						"fa",
+						"farthest\tdouble farthest"
+					],
+					[
+						"po",
+						"polygonDiameter"
+					],
+					[
+						"set",
+						"setprecision"
+					],
+					[
+						"incl",
+						"include bits\tInclude Bascics"
+					],
+					[
+						"do",
+						"double\tdouble"
+					],
+					[
+						"pbd",
+						"pbds map\tpbds map"
+					],
+					[
+						"inc",
+						"inc\t#include <…>"
+					],
+					[
+						"m_",
+						"m_inv\tll m_inv"
+					],
+					[
+						"sol",
+						"solve2"
+					],
+					[
+						"int",
+						"inter\tdouble inter"
+					],
+					[
+						"end",
+						"endl"
+					],
+					[
+						"D",
+						"define"
+					],
+					[
+						"ma",
+						"max_sum\tll max_sum"
+					],
+					[
+						"max",
+						"max_j\tint max_j"
+					],
+					[
+						"max_ri",
+						"max_right_i\tint max_right_i"
+					],
+					[
+						"max_le",
+						"max_left_j\tint max_left_j"
+					],
+					[
+						"lef",
+						"max_left_j\tint max_left_j"
+					],
+					[
+						"en",
+						"endl"
+					],
+					[
+						"be",
+						"begin\titerator begin()"
+					],
+					[
+						"m",
+						"main\tmain()"
+					],
+					[
+						"pu",
+						"push\tvoid push(value_type &&__x)"
+					],
+					[
+						"stk",
+						"stk2\tint stk2"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"base",
+						"base_to_the_power"
+					],
+					[
+						"sh",
+						"shift"
+					],
+					[
+						"shi",
+						"shift_in_cycle"
+					],
+					[
+						"upp",
+						"upper_bound\t_ForwardIterator upper_bound(_ForwardIterator __first, _ForwardIterator __last, const _Tp &__val)"
+					],
+					[
+						"min",
+						"min_i"
+					],
+					[
+						"pre",
+						"prev_a"
+					],
+					[
+						"nex",
+						"next_a"
+					],
+					[
+						"ta",
+						"taken"
+					],
+					[
+						"prev",
+						"prev_a\tint prev_a"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"push",
+						"push_front\tvoid push_front(value_type &&__x)"
+					],
+					[
+						"pop",
+						"pop_front\tvoid pop_front()"
+					],
+					[
+						"emp",
+						"empty\tbool empty() const"
+					],
+					[
+						"get",
+						"getmemoryMB\tdouble getmemoryMB()"
+					],
+					[
+						"cloc",
+						"clock_t\tclock_t"
+					],
+					[
+						"exi",
+						"exit_code"
+					],
+					[
+						"rs",
+						"realtimerssMB\tdouble realtimerssMB()"
+					],
+					[
+						"pro",
+						"customProcessInfo"
+					],
+					[
+						"ti",
+						"tick_per_sec"
+					],
+					[
+						"ws",
+						"wstime\tunsigned long wstime"
+					],
+					[
+						"em",
+						"empty\tbool empty() const"
+					],
+					[
+						"exit",
+						"exit_signal\tint exit_signal"
+					],
+					[
+						"ato",
+						"atol\tlong atol(const char *__nptr)"
+					],
+					[
+						"c",
+						"c_str\tconst char * c_str() const"
+					],
+					[
+						"at",
+						"atoi\tint atoi(const char *__nptr)"
+					],
+					[
+						"test",
+						"testcase\ttest_case"
+					],
+					[
+						"tes",
+						"testcase\ttest_case"
+					],
+					[
+						"bits",
+						"bitset"
+					],
+					[
+						"area",
+						"area_with_top"
+					],
+					[
+						"for",
+						"forward\tint forward"
+					],
+					[
+						"mod",
+						"modexp\tbigmod"
+					],
+					[
+						"tok",
+						"tok"
+					],
+					[
+						"log",
+						"log_no"
+					],
+					[
+						"bit",
+						"bit range update\tbit range update"
+					],
+					[
+						"pb",
+						"pb_ds"
+					],
+					[
+						"print",
+						"printhaha"
+					],
+					[
+						"me",
+						"mem\tmemset full"
+					],
+					[
+						"de",
+						"define"
+					],
+					[
+						"tw",
+						"two_who\tint two_who"
+					],
+					[
+						"two",
+						"two_who\tint two_who"
+					],
+					[
+						"ex",
+						"exception"
+					],
+					[
+						"string",
+						"stringstream\tstringstream"
+					],
+					[
+						"arg",
+						"argc\tint argc"
+					],
+					[
+						"ar",
+						"argc"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/tariq/Code/gjg.cpp",
+					"settings":
+					{
+						"buffer_size": 1396,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tariq/Code/rr.cpp",
+					"settings":
+					{
+						"buffer_size": 4974,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tariq/Code/cus.cpp",
+					"settings":
+					{
+						"buffer_size": 5294,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tariq/Code/tem.cpp",
+					"settings":
+					{
+						"buffer_size": 4277,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#include <bits/stdc++.h>\nusing namespace std;\n#define pf                  printf\n#define sc                  scanf\n#define pb                  push_back\n#define eb                  emplace_back\n#define present(c,x)        ((c).find(x) != (c).end())\n#define mp                  make_pair\n#define xx                  first\n#define yy                  second\n#define endl                '\\n'\n#define SZ(v)               ((int) (v).size())\n#define all(v)              (v).begin(), (v).end()\ntypedef long long           ll;\ntypedef long double         LD;\ntypedef unsigned long long  ull;\ntypedef pair<int,int>       pii;\nconst LD EPS =              1e-9;\nconst LD PI=                acos(-1.0);\nconst int MX=               6e5+5;\nll mod=                     1e9+7;\n\nint mem[65][65];\n\nstring s;\nint dp(int i,int j){\n\tif(i==j or i-1==j) return 1;\n\n\tint &res = mem[i][j];\n\tif(~res) return res;\n\tres = 2;\n\n\tfor(int k = i+1;k<=j;k++)\n\t\tif(s[k]==s[i])res+=dp(i+1,k-1);\n\tfor(int k = j-1;k>=i;k--)\n\t\tif(s[k]==s[j])res+=dp(k+1,j-1);\n\tres-=dp(i+1,j-1);\n\treturn res;\n\t\n}\n\nint main()\n{\n\tint tc,ts=0;cin>>tc;while(tc--){\n\t\tcin>>s;int n=SZ(s);\n\t\tmemset(mem,-1,sizeof(mem));\n\t\tcout<<\"Case \"<<++ts<<\": \"<<dp(0,n-1)<<endl;\n\t}\n    return 0;\n}\n\n/**\n\t\t\t\t\t\tMd. Tariqul Islam\n\t\t\t\t\t\t\tIIT,JU\n\t\t\t\t\t\t  fb/tariqiitju\n\t\t\t\t\t  tarik.amtoly@gmail.com\n*/",
+					"file": "/home/tariq/Code/another way.cpp",
+					"file_size": 1329,
+					"file_write_time": 132111421451687779,
+					"settings":
+					{
+						"buffer_size": 1318,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tariq/Code/anyuthing.py",
+					"settings":
+					{
+						"buffer_size": 61,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tariq/Code/input.txt",
+					"settings":
+					{
+						"buffer_size": 23,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tariq/Code/tmp.txt",
+					"settings":
+					{
+						"buffer_size": 4291487,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tariq/Code/output.txt",
+					"settings":
+					{
+						"buffer_size": 30,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tariq/Code/compile_error.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tariq/Code/ans.txt",
+					"settings":
+					{
+						"buffer_size": 40,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/customC++.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"11"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"14"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"17"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"_"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"Terminal17"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"TerminalFileInput17"
+						]
+					],
+					[
+						"Packages/User/C++.sublime-build",
+						"14"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"11"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"14"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"17"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"_"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"Terminal17"
+						],
+						[
+							"Packages/User/C++.sublime-build",
+							"TerminalFileInput17"
+						],
+						[
+							"Packages/User/customC++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/customC++.sublime-build",
+							"terminal"
+						],
+						[
+							"Packages/User/customC++.sublime-build",
+							"terminal output"
+						]
+					],
+					[
+						"Packages/User/customC++.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/Python3.sublime-build",
+							"RunInTerminal"
+						]
+					],
+					[
+						"Packages/User/Python3.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"reso",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"open",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tariq/Code/tescas.cpp",
+				"/home/tariq/.config/sublime-text-3/Packages/User/spfa.sublime-snippet",
+				"/home/tariq/Downloads/NitroShare/tst.cpp",
+				"/home/tariq/.config/sublime-text-3/Packages/User/sod.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/seive.sublime-snippet",
+				"/home/tariq/Code/hoh.py",
+				"/home/tariq/Downloads/NitroShare/tem.cpp",
+				"/home/tariq/.config/sublime-text-3/Packages/User/lis bs.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/lca.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/cht.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/pbds header.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/pragma.sublime-snippet",
+				"/home/tariq/Code/leena15.cpp",
+				"/home/tariq/Downloads/sol.cpp",
+				"/home/tariq/Downloads/monster.cpp",
+				"/home/tariq/Downloads/sols.cpp",
+				"/home/tariq/Downloads/tmp.txt",
+				"/home/tariq/Downloads/Code.txt",
+				"/tmp/mozilla_tariq0/Code-9.txt",
+				"/tmp/mozilla_tariq0/Code-8.txt",
+				"/tmp/mozilla_tariq0/Code-7.txt",
+				"/tmp/mozilla_tariq0/Code-5.txt",
+				"/tmp/mozilla_tariq0/Code-6.txt",
+				"/tmp/mozilla_tariq0/Code-3.txt",
+				"/tmp/mozilla_tariq0/Code-4.txt",
+				"/tmp/mozilla_tariq0/Code-1.txt",
+				"/tmp/mozilla_tariq0/Code-2.txt",
+				"/tmp/mozilla_tariq0/Code.txt",
+				"/home/tariq/.config/sublime-text-3/Packages/User/lcm.sublime-snippet",
+				"/home/tariq/Code/leena 14.cpp",
+				"/home/tariq/Code/hello.txt",
+				"/home/tariq/Code/leena13.cpp",
+				"/home/tariq/Code/leena12.cpp",
+				"/home/tariq/Code/leena11.cpp",
+				"/home/tariq/Code/leena9.cpp",
+				"/home/tariq/Code/leena10.cpp",
+				"/home/tariq/Code/leena8.cpp",
+				"/home/tariq/Code/leena7.cpp",
+				"/home/tariq/Code/leena6.cpp",
+				"/home/tariq/Code/leena5.cpp",
+				"/home/tariq/Code/leena4.cpp",
+				"/home/tariq/Code/lena3.cpp",
+				"/home/tariq/Code/leena2.cpp",
+				"/home/tariq/Code/leena.cpp",
+				"/home/tariq/Code/Runner project/runner.cpp",
+				"/home/tariq/Downloads/NitroShare/treap.cpp",
+				"/home/tariq/Code/Runner project/hello.cpp",
+				"/home/tariq/Code/gen.cpp",
+				"/home/tariq/Code/tmp",
+				"/home/tariq/Code/TestBrance/test.cpp",
+				"/home/tariq/Code/TestBrance/runner.cpp",
+				"/home/tariq/Code/TestBrance/testpid.cpp",
+				"/home/tariq/Code/pat.cpp",
+				"/home/tariq/Code/gjg.cpp",
+				"/home/tariq/Code/another way.cpp",
+				"/home/tariq/Code/Image Processing/denoising basics.py",
+				"/home/tariq/Code/xprint.cpp",
+				"/home/tariq/Code/fibo power sum.cpp",
+				"/home/tariq/Code/print.cpp",
+				"/home/tariq/Code/tinp",
+				"/home/tariq/.config/sublime-text-3/Packages/User/customC++.sublime-build",
+				"/home/tariq/.config/sublime-text-3/Packages/User/bit range update.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/bit.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/iterative segment tree.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/sparse table.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/pbds set.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/bpds multiset.sublime-snippet",
+				"/home/tariq/.config/sublime-text-3/Packages/User/pbds map.sublime-snippet",
+				"/home/tariq/Code/delete_line_num.cpp",
+				"/home/tariq/.config/sublime-text-3/Packages/User/C++.sublime-build",
+				"/home/tariq/Code/printhaha.cpp",
+				"/home/tariq/Code/testting.cpp",
+				"/home/tariq/Code/testingsyscall.cpp",
+				"/home/tariq/Code/runner.cpp",
+				"/home/tariq/Code/kosare kosare.cpp"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 133.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"float",
+					"lbl",
+					"free",
+					"p",
+					"Point",
+					"yv",
+					"xv",
+					"unordered_map",
+					"//#",
+					"chull",
+					"mag",
+					"V",
+					"closest_pt_iline",
+					"f[0]=fi[0]=",
+					"posi",
+					"));\n",
+					"d/10",
+					"d%10",
+					"];\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"double",
+					"lev",
+					"PT",
+					"yy",
+					"xx",
+					"gp_hash_table",
+					"dis",
+					"point",
+					"(d<10?0:1)",
+					"(d<10?d:d-10)"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/tariq/Code/gjg.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1396,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										823,
+										823
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 600.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/tariq/Code/rr.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4974,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3192,
+										3192
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2520.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/tariq/Code/cus.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5294,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3478,
+										3478
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3068.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/tariq/Code/tem.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4277,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3031,
+										3031
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1944.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/tariq/Code/another way.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1318,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										886,
+										886
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 509.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 5,
+							"file": "/home/tariq/Code/anyuthing.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 61,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										41,
+										41
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 6,
+							"file": "/home/tariq/Code/input.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23,
+										23
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/tariq/Code/tmp.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4291487,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4291235,
+										4291235
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 4681344.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 8,
+							"file": "/home/tariq/Code/output.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 30,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 9,
+							"file": "/home/tariq/Code/compile_error.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/tariq/Code/ans.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 40,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										40,
+										40
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						3
+					],
+					[
+						1,
+						0,
+						2,
+						3
+					],
+					[
+						2,
+						0,
+						3,
+						1
+					],
+					[
+						2,
+						1,
+						3,
+						2
+					],
+					[
+						2,
+						2,
+						3,
+						3
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.66867389679,
+					0.800053914389,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.480485870484,
+					0.746528762902,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 173.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						3
+					],
+					[
+						1,
+						0,
+						2,
+						3
+					],
+					[
+						2,
+						0,
+						3,
+						1
+					],
+					[
+						2,
+						1,
+						3,
+						2
+					],
+					[
+						2,
+						2,
+						3,
+						3
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 3
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

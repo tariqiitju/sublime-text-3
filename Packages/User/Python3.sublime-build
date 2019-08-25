@@ -1,0 +1,19 @@
+{
+	"shell_cmd": "python3 -u \"$file\"<input.txt>output.txt",
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.python,source.py",
+
+	"env": {"PYTHONIOENCODING": "utf-8"},
+
+	"variants":
+	[
+		{
+			"name": "Syntax Check",
+			"shell_cmd": "python3 -m py_compile \"${file}\"<input.txt>output.txt",
+		},{
+			"name": "RunInTerminal",
+			"shell_cmd": "cd ${file_path} && gnome-terminal -e 'bash -c \"python3  -u ${file};echo;echo; echo Press ENTER to continue; read line;exit; exec bash\"'"
+			
+		}
+	]
+}

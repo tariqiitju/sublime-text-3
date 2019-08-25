@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+cout<<"Case "<<++${1:case_no}<<":"
+]]></content>
+	<tabTrigger>testcase</tabTrigger> 
+</snippet>
